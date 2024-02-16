@@ -1,7 +1,6 @@
 ### Hi there, Welcome to my GitHub Profile 👋
 
-I am Fernando and I am a Data Scientist with an Electronic Engineering background, I have worked in the Aeronautics, Telecommunications, and Defense fields.
-Currently, I am working as Head of Data Department located in Santiago, Chile. And pursuing a Master's in Data Science at Universidad del Desarrollo - Chile; I hold a Data Science Diploma from the same university and graduated from Le Wagon's Data Science Bootcamp.
+Hey! I'm Fernando, a Data Scientist with extensive experience in Aeronautics, Defense, and Telecommunications, currently pursuing a Master's in Data Science. Known for my teamwork ability, curiosity, and collaboration. I specialize in data analysis, statistical modeling, and Machine Learning techniques, using Python tools to drive the growth of data-driven organizations. Passionate about pushing organizations towards a data-driven culture and fostering advancements in the industry through data science and artificial intelligence.
 
 - I'm interested in Data and Machine Learning projects, driving the growth of Data-Driven organizations.
 
