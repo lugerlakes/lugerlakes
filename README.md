@@ -1,8 +1,6 @@
-### Hi there, Welcome to my GitHub Profile 👋
-I'm Fernando, with a Master's in Data Science. Passionate about pushing organizations towards a data-driven culture and fostering industry breakthroughs through data science and AI.
+### Hi there 👋
+I'm Fernando, a Data Scientist with an MSc in Data Science and a background in Electronic Engineering and Signal Analysis. Passionate about harnessing the power of data to drive innovation and foster a data-driven culture within organizations. I specialize in developing impactful data projects that translate complex information into actionable insights.
 
-- I'm interested in Data Projects.
- 
-- Check out my Portfolio for all of my projects.
-  
-- If you are interested in working together, feel free to drop me a line at fernando.lagos.alvarado at gmail dot com.
+Check out my Portfolio to explore my latest projects.
+
+If you're interested in collaborating, feel free to reach out at fernando.lagos.alvarado at gmail dot com. Let's build something amazing with data!
