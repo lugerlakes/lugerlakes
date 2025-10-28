@@ -4,6 +4,7 @@ I’m a Data Engineer and Data Scientist with a Master’s Degree in Data Scienc
 I help organizations clean, structure, and automate their data, so they can make smarter, faster decisions.
 
 My experience includes:
+
 🔹 Building robust ETL/ELT pipelines (Python, SQL, Docker, Airflow, APIs).
 🔹 Developing machine learning and predictive models (Scikit-learn, TensorFlow, PyTorch).
 🔹 Creating interactive dashboards (Streamlit, Power BI).
