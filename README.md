@@ -1,16 +1,92 @@
-### Hi there 👋
-I’m a Data Engineer and Data Scientist with a Master’s Degree in Data Science and a strong background in Electronic Engineering.
+# Hi, I'm Fernando Lagos Alvarado 👋
+### Data Scientist & Electronics Engineer
 
-I help organizations clean, structure, and automate their data, so they can make smarter, faster decisions.
+[linkedin]: https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
+[gmail]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
-My experience includes:
+<p align="left">
+  <a href="https://www.linkedin.com/in/lugerlakes">
+    <img src="[linkedin]" alt="LinkedIn" />
+  </a>
+  <a href="mailto:fernando.lagos.alvarado@gmail.com">
+    <img src="[gmail]" alt="Gmail" />
+  </a>
+</p>
 
-🔹 Building robust ETL/ELT pipelines (Python, SQL, Docker, Airflow, APIs).
-🔹 Developing machine learning and predictive models (Scikit-learn, TensorFlow, PyTorch).
-🔹 Creating interactive dashboards (Streamlit, Power BI).
-🔹 Automating analytics workflows — reducing processing time by up to 90%.
-🔹 I’ve delivered projects for government, defense, and private organizations, transforming complex and unstructured data into actionable insights.
+I'm a Data Scientist and Electronics Engineer with a **Master's in Data Science**, passionate about **Machine Learning** and **signal analysis**. My goal is to design and build AI-driven solutions that transform complex data into actionable insights.
 
-Check out my Portfolio to explore my latest projects.
+Currently, I'm focused on two main areas:
+* Developing a **prototype conversational assistant (LLM + RAG)** for a debt collection company.
+* Implementing a signal analysis platform that uses **Autoencoders and Clustering** to characterize technical data.
 
-If you're interested in collaborating, feel free to reach out at fernando.lagos.alvarado at gmail dot com. Let's build something amazing with data!
+---
+
+### 🚀 Core Competencies
+
+* 🤖 **Conversational AI & NLP:** Designing and prototyping LLM/RAG-based assistants; sentiment analysis and topic extraction.
+* 🧠 **Machine Learning & Deep Learning:** Specialized in signal analysis using Autoencoders and Clustering algorithms (K-Means, GMM, DBSCAN).
+* 🚀 **Data Engineering & MLOps:** Building data pipelines and deploying interactive applications (PostgreSQL, Streamlit, Docker).
+* 📈 **Predictive Analytics:** Experienced in time-series models for demand forecasting.
+
+---
+
+### 💻 My Tech Stack
+
+**Conversational AI & NLP:**
+<p>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=LangChain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/spaCy-009688?style=for-the-badge&logo=spacy&logoColor=white" alt="spaCy" />
+  <img src="https://img.shields.io/badge/NLTK-306941?style=for-the-badge&logo=nltk&logoColor=white" alt="NLTK" />
+</p>
+
+**Data Science & Machine Learning:**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" />
+</p>
+
+**Data Engineering & MLOps:**
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/MLflow-019FEA?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+</p>
+
+---
+
+### 📂 Featured Projects
+
+* **🤖 Conversational AI (LLM/RAG) for Debt Collection**
+    * **Description:** A prototype AI agent designed to automate calls, answer queries, and adapt its script based on customer history.
+    * **Stack:** Python, LangChain, FastAPI, PostgreSQL, Docker, OpenAI API.
+
+* **📡 Signal Analysis Platform (Deep Learning)**
+    * **Description:** Developed a data library (PostgreSQL backend) and an app (Streamlit frontend) that automates the analysis and characterization of technical signals using Autoencoders and Clustering.
+    * **Impact:** Reduced search and analysis times by over 80%.
+    * **Stack:** Python, Streamlit, Scikit-learn, TensorFlow, PostgreSQL, Docker.
+
+* **💬 NLP Analysis of Organizational Feedback**
+    * **Description:** An NLP pipeline for topic detection and sentiment analysis on open-ended employee survey responses.
+    * **Stack:** Python, spaCy, NLTK, Transformers.
+
+* **🌱 Agricultural Demand Forecasting (Time Series)**
+    * **Description:** A time-series prediction model built to optimize inventory purchasing for the agricultural sector.
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=ferlagos&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Fernando's GitHub Stats" />
+  <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferlagos&layout=compact&theme=dark" alt="Fernando's Top Languages" />
+</p>
+
