@@ -15,9 +15,6 @@
 
 I'm a Data Scientist and Electronics Engineer with a **Master's in Data Science**, passionate about **Machine Learning** and **signal analysis**. My goal is to design and build AI-driven solutions that transform complex data into actionable insights.
 
-Currently, I'm focused on two main areas:
-* Developing a **prototype conversational assistant (LLM + RAG)** for a debt collection company.
-* Implementing a signal analysis platform that uses **Autoencoders and Clustering** to characterize technical data.
 
 ---
 
