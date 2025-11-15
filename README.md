@@ -78,12 +78,4 @@ I'm a Data Scientist and Electronics Engineer with a **Master's in Data Science*
 * **🌱 Agricultural Demand Forecasting (Time Series)**
     * **Description:** A time-series prediction model built to optimize inventory purchasing for the agricultural sector.
 
----
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=ferlagos&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Fernando's GitHub Stats" />
-  <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferlagos&layout=compact&theme=dark" alt="Fernando's Top Languages" />
-</p>
 
