@@ -12,17 +12,8 @@
   </a>
 </p>
 
-I'm a Data Scientist and Electronics Engineer with a **Master's in Data Science**, passionate about **Machine Learning** and **signal analysis**. My goal is to design and build AI-driven solutions that transform complex data into actionable insights.
+I'm a Data Scientist and Electronics Engineer, interested in designing and building AI-driven solutions that transform complex data into actionable insights.
 
-
----
-
-### 🚀 Core Competencies
-
-* 🤖 **Conversational AI & NLP:** Designing and prototyping LLM/RAG-based assistants; sentiment analysis and topic extraction.
-* 🧠 **Machine Learning & Deep Learning:** Specialized in signal analysis using Autoencoders and Clustering algorithms (K-Means, GMM, DBSCAN).
-* 🚀 **Data Engineering & MLOps:** Building data pipelines and deploying interactive applications (PostgreSQL, Streamlit, Docker).
-* 📈 **Predictive Analytics:** Experienced in time-series models for demand forecasting.
 
 ---
 
@@ -58,23 +49,4 @@ I'm a Data Scientist and Electronics Engineer with a **Master's in Data Science*
 </p>
 
 ---
-
-### 📂 Featured Projects
-
-* **🤖 Conversational AI (LLM/RAG) for Debt Collection**
-    * **Description:** A prototype AI agent designed to automate calls, answer queries, and adapt its script based on customer history.
-    * **Stack:** Python, LangChain, FastAPI, PostgreSQL, Docker, OpenAI API.
-
-* **📡 Signal Analysis Platform (Deep Learning)**
-    * **Description:** Developed a data library (PostgreSQL backend) and an app (Streamlit frontend) that automates the analysis and characterization of technical signals using Autoencoders and Clustering.
-    * **Impact:** Reduced search and analysis times by over 80%.
-    * **Stack:** Python, Streamlit, Scikit-learn, TensorFlow, PostgreSQL, Docker.
-
-* **💬 NLP Analysis of Organizational Feedback**
-    * **Description:** An NLP pipeline for topic detection and sentiment analysis on open-ended employee survey responses.
-    * **Stack:** Python, spaCy, NLTK, Transformers.
-
-* **🌱 Agricultural Demand Forecasting (Time Series)**
-    * **Description:** A time-series prediction model built to optimize inventory purchasing for the agricultural sector.
-
 
