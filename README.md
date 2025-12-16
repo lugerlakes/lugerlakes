@@ -17,7 +17,7 @@ I'm a Data Scientist and Electronics Engineer, interested in designing and build
 
 ---
 
-### 💻 My Tech Stack
+### Tech Stack
 
 **Conversational AI & NLP:**
 <p>
